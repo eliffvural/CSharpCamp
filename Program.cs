@@ -13,6 +13,22 @@ namespace CsharpCamp
             double faizOrani = 1.15;
             bool sistemeGirisYapmisMi = false;
 
+            double dolarDun = 7.35;
+            double dolarBugun = 7.45;
+
+            if (dolarDun>dolarBugun)
+            {
+                Console.WriteLine("Azalis butonu");
+            }
+            else if (dolarDun<dolarBugun)
+            {
+                Console.WriteLine("Artis butonu");
+            }
+            else
+            {
+                Console.WriteLine("Degismedi butonu");
+            }
+
 
             if (sistemeGirisYapmisMi==true)
             {

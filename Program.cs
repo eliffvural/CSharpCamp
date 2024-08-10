@@ -11,12 +11,10 @@ namespace CsharpCamp
             string kategoriEtiketi = "Kategori";
             int ogrenciSayisi = 20000;
             double faizOrani = 1.15;
+            bool sistemeGirisYapmisMi = false;
 
             Console.WriteLine(kategoriEtiketi);
-            Console.WriteLine(kategoriEtiketi);
-            Console.WriteLine(kategoriEtiketi);
-            Console.WriteLine(kategoriEtiketi);
-
+            
 
 
         }

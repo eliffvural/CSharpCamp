@@ -1,0 +1,15 @@
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\bin\Debug\net8.0\CSharpCamp.exe
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\bin\Debug\net8.0\CSharpCamp.deps.json
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\bin\Debug\net8.0\CSharpCamp.runtimeconfig.json
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\bin\Debug\net8.0\CSharpCamp.dll
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\bin\Debug\net8.0\CSharpCamp.pdb
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.AssemblyInfoInputs.cache
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.AssemblyInfo.cs
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.csproj.CoreCompileInputs.cache
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.sourcelink.json
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.dll
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\refint\CSharpCamp.dll
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.pdb
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\CSharpCamp.genruntimeconfig.cache
+C:\Users\elifv\Desktop\CSharpCamp\CSharpCamp\obj\Debug\net8.0\ref\CSharpCamp.dll

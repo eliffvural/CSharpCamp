@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a27e4f5a5c340538a67d11224c5784c9820ef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e511bab9d7c3e8055807aea5d0c9498929f165c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpCamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpCamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
